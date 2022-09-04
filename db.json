@@ -16,47 +16,5 @@
     "halteverbot": "159,00 Euro",
     "genehmigung": "60,00 Euro",
     "gesamt": "219,00 Euro"
-  },
-  {
-    "city_name": "Achern",
-    "halteverbot": "190,00 Euro",
-    "genehmigung": "0,00 Euro",
-    "gesamt": "190,00 Euro"
-  },
-  {
-    "city_name": "Achim",
-    "halteverbot": "123,00 Euro",
-    "genehmigung": "40,00 Euro",
-    "gesamt": "163,00 Euro"
-  },
-  {
-    "city_name": "Adenbüttel",
-    "halteverbot": "130,00 Euro",
-    "genehmigung": "43,00 Euro",
-    "gesamt": "173,00 Euro"
-  },
-  {
-    "city_name": "Adendorf",
-    "halteverbot": "192,00 Euro",
-    "genehmigung": "0,00 Euro",
-    "gesamt": "192,00 Euro"
-  },
-  {
-    "city_name": "Ahaus",
-    "halteverbot": "188,00 Euro",
-    "genehmigung": "0,00 Euro",
-    "gesamt": "188,00 Euro"
-  },
-  {
-    "city_name": "Ahlen",
-    "halteverbot": "155,00 Euro",
-    "genehmigung": "0,00 Euro",
-    "gesamt": "155,00 Euro"
-  },
-  {
-    "city_name": "Ahnatal",
-    "halteverbot": "154,00 Euro",
-    "genehmigung": "0,00 Euro",
-    "gesamt": "154,00 Euro"
   }
 ]
