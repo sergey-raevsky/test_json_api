@@ -4,17 +4,5 @@
     "halteverbot": "175,00 Euro",
     "genehmigung": "0,00 Euro",
     "gesamt": "175,00 Euro"
-  },
-  {
-    "city_name": "Aalen",
-    "halteverbot": "207,00 Euro",
-    "genehmigung": "0,00 Euro",
-    "gesamt": "207,00 Euro"
-  },
-  {
-    "city_name": "Abstatt",
-    "halteverbot": "159,00 Euro",
-    "genehmigung": "60,00 Euro",
-    "gesamt": "219,00 Euro"
   }
 ]
